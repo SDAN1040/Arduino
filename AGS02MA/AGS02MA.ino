@@ -5,7 +5,10 @@
 // SDA → A4
 // SCL → A5
 
-// GitHub 
+// GitHub https://github.com/SDAN1040/Arduino
+
+// Библиотеку AGS02MA установить тут SourceCode.zip: https://github.com/RobTillaart/AGS02MA/releases
+// Библиотеку подключить как .ZIP Library
 
 #include <Wire.h>
 #include <AGS02MA.h>
