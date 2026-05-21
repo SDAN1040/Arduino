@@ -7,7 +7,7 @@
 
 // GitHub https://github.com/SDAN1040/Arduino
 
-// Библиотеку AGS02MA установить тут SourceCode.zip: https://github.com/RobTillaart/AGS02MA/releases
+// Библиотеку AGS02MA установить тут SourceCode.zip: https://github.com/RobTillaart/AGS02MA/releases/tag/0.4.4
 // Библиотеку подключить как .ZIP Library
 
 #include <Wire.h>
